@@ -1,4 +1,3 @@
-### Hola! Soy Nicole 👋
 <div id="header" aling="center">
   <h1 aling="center">Hola! Soy Nicole 👋</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWgxemh1Znhsc2ZiNHJramFvdjRzdWtsOXl0aGI4YWU3cnY4bjloYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
@@ -18,11 +17,6 @@
             <rect width="0" height="20" fill="#555"/>
             <rect x="0" width="75" height="20" fill="#0077b5"/>
             <rect width="75" height="20" fill="url(#s)"/>
-        </g>
-        <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
-            <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIg…gLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4="/>
-            <text aria-hidden="true" x="465" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="470">LinkedIn</text>
-            <text x="465" y="140" transform="scale(.1)" fill="#fff" textLength="470">LinkedIn</text>
         </g>
     </svg>
 </a>
