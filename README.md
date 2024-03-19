@@ -5,8 +5,8 @@
   <h3 aling="center">Soy Full Stack Developer y uso este espacio para subir proyectos propios, de la facultad, o cursos que he realizado.
   </h3>
 </div>
-<a href="URL_de_tu_perfil_de_LinkedIn">
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="20" role="img" aria-label="LinkedIn">
+<a href="https://www.linkedin.com/in/nicole-ocampo/">
+    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="75" height="20" role="img" aria-label="LinkedIn">
         <title>LinkedIn</title>
         <linearGradient id="s" x2="0" y2="100%">
             <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
@@ -43,7 +43,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JAVASCRIPT" alt="JAVASCRIPT"
       width="48" height="48"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT"
-      width="48" height="48"/>;
+      width="48" height="48"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NODE" alt="NODEJS" width="48" height="48"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SPRING" alt="SPRING" width="48" height="48"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQLServer" alt="SQLServer" width="48" height="48"/>&nbsp;
