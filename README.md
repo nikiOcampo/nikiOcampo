@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-  <h1 aling="center">Hola! Soy Nicole 👋</h1>
+  <h1 aling="center">Hola! 👋</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWgxemh1Znhsc2ZiNHJramFvdjRzdWtsOXl0aGI4YWU3cnY4bjloYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
   <h3 aling="center">Soy Full Stack Developer y uso este espacio para subir proyectos propios, de la facultad, o cursos que he realizado.
   </h3>
